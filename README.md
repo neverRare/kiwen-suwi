@@ -22,8 +22,8 @@ TODO: preview
 
 ## TODO
 
-- [ ] High contrast theme
-- [ ] Black only theme
+- [x] High contrast theme
+- [x] Black only theme
 - [ ] Better alt text
 - [ ] Font
 - [ ] Fairy pieces
