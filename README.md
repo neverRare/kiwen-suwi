@@ -20,6 +20,8 @@ TODO: preview
 
 [Download the assets](https://github.com/neverRare/kiwen-suwi/releases)
 
+As of 8 of March, there's no official way to use this on chess.com nor lichess unfortunately. One have to customize it with third-party browser extension. I won't provide instructions and do this at your own risks. I won't be responsible if something wrong happen.
+
 ## TODO
 
 - [x] High contrast theme
