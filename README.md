@@ -2,15 +2,28 @@
 
 Chess theme made to be elegant, minimalist, and adorable. Works well with light-shaded board.
 
-<img src="./version/1.000/kiwen-suwi/preview.png" width="500" alt="Chess starting arrangement with white on bottom and black on top" />
+<img src="./version/1.100/kiwen-suwi/preview.png" width="500" alt="Chess" />
+
+## High contrast
+
+Pieces with highest contrast possible. Works well with any board!
+
+<img src="./version/1.100/kiwen-suwi-high-contrast/preview.png" width="500" alt="Chess" />
+
+## Black only
+
+Black only glyphs to be used for font (Work in progress)
+
+TODO: preview
 
 ---
 
-[Download it now!](https://github.com/neverRare/kiwen-suwi/releases)
+[Download the assets](https://github.com/neverRare/kiwen-suwi/releases)
 
 ## TODO
 
 - [ ] High contrast theme
 - [ ] Black only theme
+- [ ] Better alt text
 - [ ] Font
 - [ ] Fairy pieces
