@@ -12,7 +12,7 @@ Pieces with highest contrast possible. Works well with any board!
 
 ## Black only
 
-Black only glyphs inteded for fonts. Black pieces are filled and white pieces are hollow white outline.
+Black only glyphs intended for fonts. Black pieces are filled and white pieces are hollow white outline.
 
 TODO: preview
 
