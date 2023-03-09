@@ -16,7 +16,7 @@ Black only glyphs intended for fonts (see below). Black pieces are filled and wh
 
 ## Font
 
-A very legible font, thanks to its simplicity. Intended for figurine notation.
+A very legible font, thanks to its simplicity. Optimized for figurine notation.
 
 ![pawn to e4, pawn to e5, knight to f3, knight to c6, bishop to c4, bishop to c5](./version/1.200/preview-font.png)
 
