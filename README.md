@@ -22,6 +22,10 @@ TODO: preview
 
 As of 8 of March, there's no official way to use this on chess.com nor lichess unfortunately. One have to customize it with third-party browser extension. I won't provide instructions and do this at your own risks. I won't be responsible if something wrong happen.
 
+## License
+
+Assets, including images and vector files, are licensed under [CC BY 4.0](LICENSE-CC%20BY%204.0). The font is licensed under [OFL](LICENSE-OFL).
+
 ## TODO
 
 - [x] High contrast theme
