@@ -35,5 +35,5 @@ Assets, including images and vector files, are licensed under [CC BY 4.0](LICENS
 - [x] High contrast theme
 - [x] Black only theme
 - [ ] Better alt text
-- [ ] Font
-- [ ] Fairy pieces
+- [x] Font
+- [ ] ~~Fairy pieces~~
