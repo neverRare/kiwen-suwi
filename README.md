@@ -12,13 +12,17 @@ Pieces with highest contrast possible. Works well with any board!
 
 ## Black only
 
-Black only glyphs intended for fonts. Black pieces are filled and white pieces are hollow black outline.
+Black only glyphs intended for fonts (see below). Black pieces are filled and white pieces are hollow black outline.
 
-TODO: preview
+## Font
+
+A very legible font, thanks to its simplicity. Intended for figurine notation.
+
+![pawn to e4, pawn to e5, knight to f3, knight to c6, bishop to c4, bishop to c5](./version/1.200/preview-font.png)
 
 ---
 
-[Download the assets](https://github.com/neverRare/kiwen-suwi/releases)
+[Download the assets or font](https://github.com/neverRare/kiwen-suwi/releases)
 
 As of 8 of March, there's no official way to use this on chess.com nor lichess unfortunately. One have to customize it with third-party browser extension. I won't provide instructions and do this at your own risks. I won't be responsible if something wrong happen.
 
