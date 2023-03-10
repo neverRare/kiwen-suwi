@@ -37,3 +37,4 @@ Assets, including images and vector files, are licensed under [CC BY 4.0](LICENS
 - [ ] Better alt text
 - [x] Font
 - [ ] ~~Fairy pieces~~
+- [ ] Instruction to use in chess.com or lichess via third party browser extension
