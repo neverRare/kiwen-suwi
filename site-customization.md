@@ -9,13 +9,13 @@ There's no official way to use kiwen suwi on chess.com nor lichess. But it is po
 If you both use chess.com and lichess, Follow these instruction for one of the site first then do the same for the other.
 
 1. Install stylus, if you haven't yet:
-  - [Install it on Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
-  - [Install it on Firefox](https://addons.mozilla.org/firefox/addon/styl-us/)
+   - [Install it on Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
+   - [Install it on Firefox](https://addons.mozilla.org/firefox/addon/styl-us/)
 2. Open [chess.com] or [lichess].
 3. On chess.com or lichess tab, open stylus from the right side of the address bar. Under `Write style for`, click `chess.com` or `lichess.org`. Make sure to not click `This URL` or the `www` part.
 4. On the huge text field. Paste the CSS file. You can copy it from here:
-  - [CSS file for chess.com](https://raw.githubusercontent.com/neverRare/kiwen-suwi/master/chess-com.css)
-  - [CSS file for lichess](https://raw.githubusercontent.com/neverRare/kiwen-suwi/master/lichess.css)
+   - [CSS file for chess.com](https://raw.githubusercontent.com/neverRare/kiwen-suwi/master/chess-com.css)
+   - [CSS file for lichess](https://raw.githubusercontent.com/neverRare/kiwen-suwi/master/lichess.css)
 5. Click save. You may now close the tab and admire the pieces in kiwen suwi!
 
 [chess.com]: https://www.chess.com/
