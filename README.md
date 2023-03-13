@@ -24,7 +24,10 @@ A very legible font, thanks to its simplicity. Optimized for figurine notation. 
 
 [Download the assets or font](https://github.com/neverRare/kiwen-suwi/releases)
 
-As of 8 of March, there's no official way to use this on chess.com nor lichess unfortunately.
+As of 8 of March, there's no official way to use this on [chess.com] nor [lichess] unfortunately.
+
+[chess.com]: https://www.chess.com/
+[lichess]: https://lichess.org/
 
 ## License
 
