@@ -24,11 +24,11 @@ A very legible font, thanks to its simplicity. Optimized for figurine notation. 
 
 [Download the assets or font](https://github.com/neverRare/kiwen-suwi/releases)
 
-There's no official way to use this on [chess.com] nor [lichess] unfortunately. [But you can customize it with third-party browser extension](./site-customization.md).
+There's no official way to use this on [Chess.com] nor [Lichess] unfortunately. [But you can customize it with third-party browser extension](./site-customization.md).
 
-[chess.com]: https://www.chess.com/
-[lichess]: https://lichess.org/
+[Chess.com]: https://www.chess.com/
+[Lichess]: https://lichess.org/
 
 ## License
 
-Assets, including images and vector files, are licensed under [CC BY 4.0](./LICENSE-CC%20BY%204.0). The font is licensed under [OFL](./LICENSE-OFL). The CSS files used to customize chess.com or lichess is licensed under [MIT](./LICENSE-MIT).
+Assets, including images and vector files, are licensed under [CC BY 4.0](./LICENSE-CC%20BY%204.0). The font is licensed under [OFL](./LICENSE-OFL). The CSS files used to customize Chess.com or Lichess is licensed under [MIT](./LICENSE-MIT).
