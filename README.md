@@ -28,7 +28,7 @@ As of 8 of March, there's no official way to use this on chess.com nor lichess u
 
 ## License
 
-Assets, including images and vector files, are licensed under [CC BY 4.0](LICENSE-CC%20BY%204.0). The font is licensed under [OFL](LICENSE-OFL).
+Assets, including images and vector files, are licensed under [CC BY 4.0](./LICENSE-CC%20BY%204.0). The font is licensed under [OFL](./LICENSE-OFL). The CSS files used to customize chess.com or lichess is licensed under [MIT](./LICENSE-MIT)
 
 ## TODO
 
