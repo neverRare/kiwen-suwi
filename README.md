@@ -31,13 +31,4 @@ There's no official way to use this on [chess.com] nor [lichess] unfortunately. 
 
 ## License
 
-Assets, including images and vector files, are licensed under [CC BY 4.0](./LICENSE-CC%20BY%204.0). The font is licensed under [OFL](./LICENSE-OFL). The CSS files used to customize chess.com or lichess is licensed under [MIT](./LICENSE-MIT)
-
-## TODO
-
-- [x] High contrast theme
-- [x] Black only theme
-- [ ] Better alt text
-- [x] Font
-- [ ] ~~Fairy pieces~~
-- [ ] Instruction to use in chess.com or lichess via third party browser extension
+Assets, including images and vector files, are licensed under [CC BY 4.0](./LICENSE-CC%20BY%204.0). The font is licensed under [OFL](./LICENSE-OFL). The CSS files used to customize chess.com or lichess is licensed under [MIT](./LICENSE-MIT).
