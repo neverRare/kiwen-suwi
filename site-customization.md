@@ -1,7 +1,5 @@
 # Customization instruction for [Chess.com] or [Lichess]
 
-There's no official way to use kiwen suwi on Chess.com nor Lichess. But it is possible to customize them anyway by injecting CSS files via third-party extension. We're talking about the desktop site. Unfortunately, there's no way to use kiwen suwi on mobile apps.
-
 > **⚠ WARNING**: Do this at your own risk. While I ensure these methods works without problems. I'm won't be responsible if anything wrong happens.
 
 > **Note for Chess.com users**: These methods won't customize some pieces shown in the site: It won't change the pieces shown in homepage for example. This is due to how the frontend was structured and it's not straightforward to customize it.
