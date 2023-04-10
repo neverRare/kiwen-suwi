@@ -35,4 +35,4 @@ I don't encourage this. I recommend waiting but if you can't wait and want to cu
 
 ## License
 
-Assets, including images and vector files, are licensed under [CC BY 4.0](./LICENSE-CC%20BY%204.0). The font is licensed under [OFL](./LICENSE-OFL). The CSS files used to customize Chess.com or Lichess is licensed under [MIT](./LICENSE-MIT).
+Assets, including images and vector files, are licensed under [CC BY 4.0](./LICENSE-CC-BY-4.0). The font is licensed under [OFL](./LICENSE-OFL). The CSS files used to customize Chess.com or Lichess is licensed under [MIT](./LICENSE-MIT).
