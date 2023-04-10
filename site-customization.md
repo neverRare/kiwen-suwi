@@ -1,6 +1,6 @@
 # Customization instruction for [Chess.com] or [Lichess]
 
-> **⚠ WARNING**: Do this at your own risk. While I ensure these methods works without problems. I'm won't be responsible if anything wrong happens.
+> **⚠ WARNING**: Do this at your own risk. While I ensure these methods works without problems. I won't be responsible if anything wrong happens.
 
 > **Note for Chess.com users**: These methods won't customize some pieces shown in the site: It won't change the pieces shown in homepage for example. This is due to how the frontend was structured and it's not straightforward to customize it.
 
