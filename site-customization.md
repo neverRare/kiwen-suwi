@@ -14,7 +14,7 @@ If you both use Chess.com and Lichess, Follow these instruction for one of the s
 4. On the huge text field. Paste the CSS file. You can copy it from here:
    - [CSS file for Chess.com](https://raw.githubusercontent.com/neverRare/kiwen-suwi/master/chess-com.css)
    - [CSS file for Lichess](https://raw.githubusercontent.com/neverRare/kiwen-suwi/master/lichess.css)
-5. Click save. You may now close the tab and admire the pieces in kiwen suwi!
+5. Click save. You may now close the tab and admire the pieces in Kiwen Suwi!
 
 [Chess.com]: https://www.chess.com/
 [Lichess]: https://lichess.org/

@@ -1,4 +1,4 @@
-# kiwen suwi
+# Kiwen Suwi
 
 Chess theme made to be elegant, minimalist, and adorable. Works well with light-shaded board.
 
@@ -22,9 +22,9 @@ A very legible font, thanks to its simplicity. Optimized for figurine notation. 
 
 [Download the assets or font](https://github.com/neverRare/kiwen-suwi/releases)
 
-A [pull request adding kiwen suwi to Lichess][pull request] has been merged. It's not yet available on Lichess itself but at anytime it may become available. So if you're using [Lichess] and want kiwen suwi, just wait!
+A [pull request adding Kiwen Suwi to Lichess][pull request] has been merged. It's not yet available on Lichess itself but at anytime it may become available. So if you're using [Lichess] and want Kiwen Suwi, just wait!
 
-On [Chess.com] however, kiwen suwi is very unlikely to get added. So one have to customize it with third-party browser extension: [customization instruction][customize].
+On [Chess.com] however, Kiwen Suwi is very unlikely to get added. So one have to customize it with third-party browser extension: [customization instruction][customize].
 
 I don't encourage this. I recommend waiting but if you can't wait and want to customize [Lichess] anyway with third-party browser extension, [here's the instruction][customize].
 
