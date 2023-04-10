@@ -8,7 +8,7 @@ Chess theme made to be elegant, minimalist, and adorable. Works well with light-
 
 Pieces with highest contrast possible. Works well with any board!
 
-> Note: Deprecated, will be replaced with better designed
+> **Note**: Deprecated, will be replaced with a better design
 
 <img src="./version/latest/kiwen-suwi-high-contrast/preview.png" width="500" alt="Chess" />
 
