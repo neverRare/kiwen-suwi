@@ -46,7 +46,7 @@ On [Chess.com], Kiwen Suwi is very unlikely to get added. So one have to customi
    - [Install it on Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
    - [Install it on Firefox](https://addons.mozilla.org/firefox/addon/styl-us/)
 2. Open [Chess.com].
-3. On Chess.com tab, open Stylus from the right side of the address bar. It is a blue or cyan "S" icon. On Firefox, you may need to click the jigsaw puzzle icon before you can open Stylus.
+3. On Chess.com tab, open Stylus from the right side of the address bar. On Firefox, you may need to click the jigsaw puzzle icon before you can open Stylus.
 4. Click `Find styles`.
 5. On the search bar, search for "kiwen suwi". Find "Kiwen Suwi for Chess.com" by neverRare. Click it to install it.
 6. Done! As said in the note, it may not appear on some parts of Chess.com, but it should appear if you're playing or reviewing the game!
