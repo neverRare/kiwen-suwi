@@ -29,10 +29,12 @@ Assets, including images and vector files, are licensed under [CC BY 4.0]. The f
 
 ## Use it on Lichess
 
-A [pull request adding Kiwen Suwi to Lichess][pull request] has been merged. It's not yet available on Lichess itself but at anytime it may become available. So if you're using [Lichess] and want Kiwen Suwi, just wait!
+Kiwen Suwi is officially part of [Lichess]. Just click your name on upper right corner of the site, click `Piece set`, then there you'll find a knight in Kiwen Suwi, click it.
+
+The Lichess mobile app is yet to add Kiwen Suwi: [Pull request]
 
 [Lichess]: https://lichess.org/
-[pull request]: https://github.com/lichess-org/lila/pull/12632
+[Pull request]: https://github.com/lichess-org/lichobile/pull/2344
 
 ## Use it on Chess.com desktop site
 
