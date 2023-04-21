@@ -16,7 +16,7 @@ Pieces with highest contrast possible. Works well with any board!
 
 A very legible font, thanks to its simplicity. Optimized for figurine notation. (ASCII or Latin glyphs not included in the font)
 
-![pawn to e4, pawn to e5, knight to f3, knight to c6, bishop to c4, bishop to c5](./version/latest/preview-font.png)
+<img src="./version/latest/preview-font.png" width="500" alt="Chess" />
 
 ## Download
 
