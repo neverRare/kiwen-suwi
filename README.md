@@ -67,5 +67,6 @@ You may also choose to completely remove it from Stylus with the following instr
 2. On Chess.com tab, open Stylus.
 3. Click `Manage`.
 4. On the right side of "Kiwen Suwi for Chess.com", click the cross icon.
+5. Close the tab.
 
 [Chess.com]: https://www.chess.com/
