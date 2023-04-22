@@ -2,21 +2,21 @@
 
 Chess theme made to be elegant, minimalist, and adorable. Works well with light-shaded board.
 
-<img src="./version/latest/kiwen-suwi/preview.png" width="500" alt="Chess" />
+<img src="./version/latest/kiwen-suwi/preview.png" width="500" alt="Chess pieces in very simple design. White pieces are solid white shapes with black outline. Black pieces are just solid black shapes with no outline. Knights looks like sock puppet." />
 
 ## High contrast (Deprecated)
 
 Pieces with highest contrast possible. Works well with any board!
 
-> **Note**: Deprecated, will be replaced with a better design
+**Note**: Deprecated, will be replaced with a better design
 
-<img src="./version/latest/kiwen-suwi-high-contrast/preview.png" width="500" alt="Chess" />
+<img src="./version/latest/kiwen-suwi-high-contrast/preview.png" width="500" alt="Chess pieces using pure white and black shade. White pieces remained the same and black pieces have white outlines." />
 
 ## Font
 
 A very legible font, thanks to its simplicity. Optimized for figurine notation. (ASCII or Latin glyphs not included in the font)
 
-<img src="./version/latest/preview-font.png" width="500" alt="Chess" />
+<img src="./version/latest/preview-font.png" width="500" alt="1. e4, e5, 2. Knight to f3, Knight to c6, 3. Bishop to c4, Bishop to c5" />
 
 ## Download
 
