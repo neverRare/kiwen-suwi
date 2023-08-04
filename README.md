@@ -2,8 +2,6 @@
 
 Chess theme made to be elegant, minimalist, and adorable. Works well with light-shaded board.
 
-[Watch FM Gauri play with Kiwen Suwi](https://www.twitch.tv/videos/1796605493?t=01h09m02s)
-
 <img src="./version/latest/kiwen-suwi/preview.png" width="500" alt="Chess pieces in very simple design. White pieces are solid white shapes with black outline. Black pieces are just solid black shapes with no outline. Knights looks like sock puppet." />
 
 ## High contrast (Deprecated)
