@@ -40,7 +40,7 @@ The Lichess mobile app is yet to add Kiwen Suwi: [Pull request]
 
 On [Chess.com], Kiwen Suwi is very unlikely to get added. So one have to customize it with third-party browser extension. Please read the note and warning before following the instruction.
 
-**⚠ WARNING**: Do this at your own risk. While I ensure these methods works without problems. I won't be responsible if anything wrong happens.
+**⚠ WARNING**: Do this at your own risk. While I ensure these methods works without problems. I won't be responsible if anything wrong happens. Still, you may open an issue if you've encountered an issue.
 
 **Note**: These methods won't customize some pieces shown in the site: It won't change the pieces shown in homepage for example.
 
