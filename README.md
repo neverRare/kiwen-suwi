@@ -47,3 +47,6 @@ On [Chess.com], Kiwen Suwi is very unlikely to get added. So one have to customi
    - [Install it on Firefox](https://addons.mozilla.org/firefox/addon/styl-us/)
 2. Open <https://uso.kkx.one/style/262457>
 3. Click Install with Stylus
+
+[Chess.com]: https://www.chess.com/
+
