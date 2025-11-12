@@ -38,35 +38,12 @@ The Lichess mobile app is yet to add Kiwen Suwi: [Pull request]
 
 ## Use it on Chess.com desktop site
 
-On [Chess.com], Kiwen Suwi is very unlikely to get added. So one have to customize it with third-party browser extension. Please read the note and warning before following the instruction.
-
-**⚠ WARNING**: Do this at your own risk. While I ensure these methods works without problems. I won't be responsible if anything wrong happens. Still, you may open an issue if you've encountered an issue.
+On [Chess.com], Kiwen Suwi is very unlikely to get added. So one have to customize it with third-party browser extension.
 
 **Note**: These methods won't customize some pieces shown in the site: It won't change the pieces shown in homepage for example.
 
 1. Install Stylus, if you haven't yet:
    - [Install it on Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
    - [Install it on Firefox](https://addons.mozilla.org/firefox/addon/styl-us/)
-2. Open [Chess.com].
-3. On Chess.com tab, open Stylus from the right side of the address bar. On Firefox, you may need to click the jigsaw puzzle icon before you can open Stylus.
-4. Click `Find styles`.
-5. On the search bar, search for "kiwen suwi". Find "Kiwen Suwi for Chess.com" by neverRare. Click it to install it.
-6. Done! As said in the note, it may not appear on some parts of Chess.com, but it should appear if you're playing or reviewing the game!
-
-If you want to remove Kiwen Suwi from Chess.com, there are many ways. If you want to use other piece style, you should remove Kiwen Suwi first with the following instruction.
-
-You may simply uninstall Stylus. Only do this if you don't use Stylus for anything else. Otherwise, follow these instruction.
-
-1. Open [Chess.com].
-2. On Chess.com tab, open Stylus.
-3. Uncheck "Kiwen Suwi for Chess.com".
-
-You may also choose to completely remove it from Stylus with the following instruction.
-
-1. Open [Chess.com].
-2. On Chess.com tab, open Stylus.
-3. Click `Manage`.
-4. On the right side of "Kiwen Suwi for Chess.com", click the cross icon.
-5. Close the tab.
-
-[Chess.com]: https://www.chess.com/
+2. Open <https://uso.kkx.one/style/262457>
+3. Click Install with Stylus
